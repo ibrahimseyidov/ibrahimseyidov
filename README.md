@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimseyidov&label=Profile%20views&color=b40e0e&style=flat-square" alt="ibrahimseyidov" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **new Front End Technologies**
 
 - 👨‍💻 All of my projects [Coming Soon...](Coming Soon...)
 
